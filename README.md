@@ -48,8 +48,7 @@ Then open http://localhost:8000.
 
 ## Deploy
 
-Netlify: drag the project folder into app.netlify.com/drop, or connect the GitHub repo (no build command, publish directory `.`).
-Vercel: import the GitHub repo and deploy with the default settings (Framework Preset: Other, no build command).
+Deployed also on versel(https://glaze-lab-eta.vercel.app/)
 
 ## Cart rules
 
